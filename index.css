@@ -1,0 +1,16 @@
+body{
+    background:white;
+    font-size:0.9rem;
+}
+
+.navbar{
+    text-align:center;
+    color:blue
+    
+}
+
+.background-items{
+    text-align:center;
+    margin-top:12rem;
+    color:blue;
+}

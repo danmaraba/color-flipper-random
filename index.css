@@ -1,6 +1,8 @@
 body{
     background:white;
     font-size:0.9rem;
+    text-align:center;
+    justify-content:center;
 }
 
 .navbar{
@@ -13,4 +15,14 @@ body{
     text-align:center;
     margin-top:12rem;
     color:blue;
+}
+
+
+.btn{
+    border-style:none;
+    margin-top:60px;
+    border-radius:4px;
+    padding:4px;
+    background-color:#90EE90;
+    cursor:pointer;
 }
